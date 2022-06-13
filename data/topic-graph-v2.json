@@ -233,7 +233,7 @@
       "summary": "Move the deadline."
     },
     { "name": "tracking",
-      "title": "Budgets, Estimates, and Tracking",
+      "title": "Estimating and Tracking",
       "type": "activity",
       "summary": "Monitoring the velocity and quality of development",
       "goodness": "high"
